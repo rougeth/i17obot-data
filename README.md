@@ -1,7 +1,7 @@
 # i17obot-data
 
 Translation data of the Python Documentation.  
-Collected and used by [@i17obot]().
+Collected and used by [@i17obot](https://github.com/rougeth/i17obot).
 
 Languages available:
 - [Brazilian Portuguese](/languages/pt-br) - since Jun 20, 2019
